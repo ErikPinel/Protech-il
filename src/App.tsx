@@ -422,7 +422,7 @@ function App() {
                   dir="rtl"
                   required
                 >
-                  <option value="" disabled hidden>
+                  <option value="" disabled>
                     בחרו כיתה
                   </option>
                   <option value="ה">כיתה ה׳</option>
