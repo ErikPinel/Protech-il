@@ -205,7 +205,7 @@ function App() {
               חוג תכנות חווייתי ומעשיר
             </h1>
             <h1 className="text-3xl md:text-5xl font-bold mb-6 animate-pulse-slow">
-              לילדי כיתות ד׳-ז׳
+              לילדי כיתות ה׳-ו׳
             </h1>
             <p className="text-xl md:text-2xl mb-8 text-blue-100">
               פיתוח חשיבה יצירתית ומיומנויות טכנולוגיות דרך בניית אתרים ופרויקטים מעשיים
@@ -425,10 +425,8 @@ function App() {
                   <option value="" disabled hidden>
                     בחרו כיתה
                   </option>
-                  <option value="ד">כיתה ד׳</option>
                   <option value="ה">כיתה ה׳</option>
                   <option value="ו">כיתה ו׳</option>
-                  <option value="ז">כיתה ז׳</option>
                 </select>
               </div>
               <button
